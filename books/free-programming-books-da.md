@@ -3,6 +3,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Delphi](#delphi)
 * [Java](#java)
 * [Pascal](#pascal)
 
@@ -16,6 +17,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Object-oriented Programming in C#](http://people.cs.aau.dk/~normark/oop-csharp/pdf/all.pdf) - Kurt Nørmark (PDF)
+* [Bogen om C#](https://mcronberg.github.io/bogenomcsharp/) - Michell Cronberg (HTML)
 
 
 ### <a id="cpp"></a>C++
@@ -23,9 +25,15 @@
 * [Notes about C++](http://people.cs.aau.dk/~normark/ap/index.html) - Kurt Nørmark (HTML)
 
 
+### Delphi
+
+* [Programmering Med Delphi 7](http://olewitthansen.dk/Datalogi/ProgrammeringMedDelphi.pdf) - Ole Witt-Hansen (PDF)
+
+
 ### Java
 
 * [Objektorienteret programmering i Java](http://javabog.dk) - Jacob Nordfalk
+* [The Complete Reference Java](http://javabog.dk) - Swaminaryan
 
 
 ### Pascal
